@@ -1,1 +1,3 @@
-# outroddet.github.io
+# Die Github-Seite von outroddet_
+
+Richtig Cool
